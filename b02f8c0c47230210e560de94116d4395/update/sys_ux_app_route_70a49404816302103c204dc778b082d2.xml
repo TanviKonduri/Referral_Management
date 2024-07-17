@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="My first app App Config">3ca4940407630210d04b98b36e3ef2dc</app_config>
+        <description/>
+        <extension_point/>
+        <fields>notificationTrayDisplayed,notificationQueue,notificationTrayIsLoading,notificationUIRoute,toastItem</fields>
+        <icon/>
+        <name>Notification tray</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id>wsSidepanel</parent_macroponent_composition_element_id>
+        <route_type>notificationtray</route_type>
+        <screen_type display_value="Notification tray">f8a49404c86302105c1e2fe94a529fd1</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-17 05:37:37</sys_created_on>
+        <sys_id>70a49404816302103c204dc778b082d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Notification tray</sys_name>
+        <sys_package display_value="My first app" source="x_1210077_my_fir_0">b02f8c0c47230210e560de94116d4395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My first app">b02f8c0c47230210e560de94116d4395</sys_scope>
+        <sys_update_name>sys_ux_app_route_70a49404816302103c204dc778b082d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-17 05:37:37</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=70a49404816302103c204dc778b082d2"/>
+</record_update>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="Laptops">59f586f23731300054b6a3549dbe5db7</category>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<ul style="list-style-type: none; list-style-position: inside;"><li>12th Generation Intel® Core™ i5 processor</li><li>
+ 
+</li><li>Windows 11 Home Single Language</li><li>
+ 
+</li><li>39.6 cm (15.6) diagonal FHD display with Intel® UHD Graphics</li><li>
+ 
+</li><li>8 GB DDR4 RAM</li><li>
+ 
+</li><li>512 GB SSD Hard drive</li><li>
+ 
+</li><li>Backlit keyboard with numeric keypad, True Vision 720p HD camera</li></ul>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>HP Laptop</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture>5133548047630210e560de94116d43ae</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=7c13148047630210e560de94116d43ef&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <request_method/>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template display_value="AES Standard items in Service Catalog">03302dd377023010f082d599cf5a99ba</sc_template>
+        <short_description>HP Intel i5 </short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-17 05:30:46</sys_created_on>
+        <sys_id>7c13148047630210e560de94116d43ef</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>HP Laptop</sys_name>
+        <sys_package display_value="My first app" source="x_1210077_my_fir_0">b02f8c0c47230210e560de94116d4395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My first app">b02f8c0c47230210e560de94116d4395</sys_scope>
+        <sys_update_name>sc_cat_item_7c13148047630210e560de94116d43ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-17 05:32:43</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <version>3</version>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=7c13148047630210e560de94116d43ef"/>
+    <fx_price action="delete_multiple" query="id=7c13148047630210e560de94116d43ef"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>7c13148047630210e560de94116d43ef</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-17 05:30:46</sys_created_on>
+        <sys_id>b013148047630210e560de94116d43f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-17 05:30:46</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <encryption_context/>
+        <file_name>download (2).jpeg</file_name>
+        <hash>f4659043237d8258e930b1edf7e9133648aa9100a26fc75b6e8e7101ea1d5756</hash>
+        <image_height>148</image_height>
+        <image_width>148</image_width>
+        <size_bytes>3016</size_bytes>
+        <size_compressed>2916</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-17 05:31:21</sys_created_on>
+        <sys_id>5133548047630210e560de94116d43ae</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-17 05:31:22</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>7c13148047630210e560de94116d43ef</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="download (2).jpeg" sys_id="5133548047630210e560de94116d43ae">5133548047630210e560de94116d43ae</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-17 05:31:21</sys_created_on>
+        <sys_id>9133548047630210e560de94116d43ae</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3876</length>
+        <position>1</position>
+        <sys_attachment display_value="download (2).jpeg" sys_id="5133548047630210e560de94116d43ae">5133548047630210e560de94116d43ae</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-17 05:31:21</sys_created_on>
+        <sys_id>1533548047630210e560de94116d43ae</sys_id>
+    </sys_attachment_doc>
+</record_update>

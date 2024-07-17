@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="My first app">bca4940404630210098d62efeeb633d4</dashboard>
+        <group/>
+        <role display_value="x_1210077_my_fir_0.admin" name="x_1210077_my_fir_0.admin">092f8c0c47230210e560de94116d439d</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-17 05:37:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>b5a4180447630210e560de94116d4314</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bca4940404630210098d62efeeb633d4</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My first app" source="x_1210077_my_fir_0">b02f8c0c47230210e560de94116d4395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My first app">b02f8c0c47230210e560de94116d4395</sys_scope>
+        <sys_update_name>par_dashboard_permission_b5a4180447630210e560de94116d4314</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-17 05:37:41</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

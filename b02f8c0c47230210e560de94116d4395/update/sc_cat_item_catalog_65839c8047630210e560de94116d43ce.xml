@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="HP Laptop">7c13148047630210e560de94116d43ef</sc_cat_item>
+        <sc_catalog display_value="Service Catalogs">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-17 05:32:44</sys_created_on>
+        <sys_id>65839c8047630210e560de94116d43ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalogs.HP Laptop</sys_name>
+        <sys_package display_value="My first app" source="x_1210077_my_fir_0">b02f8c0c47230210e560de94116d4395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My first app">b02f8c0c47230210e560de94116d4395</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_65839c8047630210e560de94116d43ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-17 05:32:44</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

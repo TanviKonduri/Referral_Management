@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="HP Laptop">7c13148047630210e560de94116d43ef</sc_cat_item>
+        <sc_catalog display_value="Service Catalogs">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-17 05:32:23</sys_created_on>
+        <sys_id>d4735c8047630210e560de94116d4338</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalogs.HP Laptop</sys_name>
+        <sys_package display_value="My first app" source="x_1210077_my_fir_0">b02f8c0c47230210e560de94116d4395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My first app">b02f8c0c47230210e560de94116d4395</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_d4735c8047630210e560de94116d4338</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-17 05:32:23</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My first app">b02f8c0c47230210e560de94116d4395</application>
+        <file_path/>
+        <instance_id>31d4630cdb12f9d44162684e139619a4</instance_id>
+        <instance_name>dev198403</instance_name>
+        <name>sc_cat_item_catalog_d4735c8047630210e560de94116d4338</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="HP Laptop">7c13148047630210e560de94116d43ef</sc_cat_item><sc_catalog display_value="Service Catalogs">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-17 05:32:23</sys_created_on><sys_id>d4735c8047630210e560de94116d4338</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalogs.HP Laptop</sys_name><sys_package display_value="My first app" source="x_1210077_my_fir_0">b02f8c0c47230210e560de94116d4395</sys_package><sys_policy/><sys_scope display_value="My first app">b02f8c0c47230210e560de94116d4395</sys_scope><sys_update_name>sc_cat_item_catalog_d4735c8047630210e560de94116d4338</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-17 05:32:23</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>76782832</payload_hash>
+        <record_name>Service Catalogs.HP Laptop</record_name>
+        <reverted_from/>
+        <source>b02f8c0c47230210e560de94116d4399</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-17 05:32:23</sys_created_on>
+        <sys_id>14735c8047630210e560de94116d433c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190bf2d6c4d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-17 05:32:23</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>54735c801263021068f4b7ecb1dd703b</update_guid>
+        <update_guid_history>54735c801263021068f4b7ecb1dd703b:76782832</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalogs.HP Laptop">91839c8047630210e560de94116d43c9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-17 05:32:44</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>12527e29af7540a09ddfc93e6aac6840</sys_id>
+        <sys_metadata>d4735c8047630210e560de94116d4338</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalogs.HP Laptop</sys_name>
+        <sys_package display_value="My first app" source="x_1210077_my_fir_0">b02f8c0c47230210e560de94116d4395</sys_package>
+        <sys_parent display_value="HP Laptop">7c13148047630210e560de94116d43ef</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="My first app">b02f8c0c47230210e560de94116d4395</sys_scope>
+        <sys_scope_delete display_value="">090667dbad564bea95476d279c2a8a81</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_d4735c8047630210e560de94116d4338</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_d4735c8047630210e560de94116d4338">14735c8047630210e560de94116d433c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-17 05:32:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
